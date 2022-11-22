@@ -1,5 +1,5 @@
-function hello(){
-    console.log("Hello NODE is changed");
+const returnHello = () => {
+    console.log("Hello Node.js!");
 }
 
-hello();
+returnHello();
